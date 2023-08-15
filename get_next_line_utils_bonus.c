@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   get_next_line_utils.c                              :+:      :+:    :+:   */
+/*   get_next_line_utils_bonus.c                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ghwa <ghwa@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/08/11 16:34:42 by ghwa              #+#    #+#             */
-/*   Updated: 2023/08/15 16:53:39 by ghwa             ###   ########.fr       */
+/*   Updated: 2023/08/15 16:55:46 by ghwa             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "get_next_line.h"
+#include "get_next_line_bonus.h"
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
